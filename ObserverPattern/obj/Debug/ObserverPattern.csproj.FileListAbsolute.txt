@@ -1,0 +1,10 @@
+C:\Users\MAROB\Dropbox\Design Patterns\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\MAROB\Dropbox\Design Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
+C:\Users\MAROB\Dropbox\Design Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.CountingAppMain.resources
+C:\Users\MAROB\Dropbox\Design Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.Properties.Resources.resources
+C:\Users\MAROB\Dropbox\Design Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.GenerateResource.Cache
+C:\Users\MAROB\Dropbox\Design Patterns\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\MAROB\Dropbox\Design Patterns\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\MAROB\Dropbox\Design Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.TextObserver.resources
+C:\Users\MAROB\Dropbox\Design Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\MAROB\Dropbox\Design Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb
